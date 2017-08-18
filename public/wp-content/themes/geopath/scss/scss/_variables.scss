@@ -1,0 +1,50 @@
+$black: #000;
+$g-out-font-clr: #040404;
+$black-lighter: #2c2c2c;
+$blue: #00849b;
+$blue-overlay: #11476b;
+$blue-sky: #1eb2d4;
+$blue-grey: #c3d3d7;
+$date-published: #bebdbe;
+$grey: #55646b;
+$grey-2: #75777c; // lighter than $grey
+$grey-dark: #464545;
+$grey-dark-footer: #262626;
+$grey-tabs: #f5f5f5;
+$library-heading: #2b40ab;
+$library-item-bg: #fafafa;
+$library-paragraph: #9f9f9f;
+
+// Our members table:
+$container-border: #252525;
+$tables-color-1: #7a7a7a;
+$tables-stripe-light: #1d1d1d;
+$tabs-and-theads: #111111;
+
+// Our board table:
+$tabs-and-theads-2: #f6fafe;
+$tables-stripe-blue: #ebeff3;
+$tables-color-2: #4e6283;
+
+$videos-bg: #f8f8f8;
+$video-title: #5fd1dd;
+$white: #fff;
+$white-darker: #c8c8c8;
+
+$nav-border: #e7e7e7;
+$lib-nav-first-item: #9b9b9b;
+
+
+$orange: #fa7a3e;
+$purple: #9b59b6;
+
+$mobile-pdh: 40px; // (mobile padding/margin - top and bottom, horizontal)
+$spacing: 30px;
+
+$grid-breakpoints: (
+        xs: 0,
+        sm: 544px,
+        md: 768px,
+        lg: 992px,
+        xl: 1200px
+);

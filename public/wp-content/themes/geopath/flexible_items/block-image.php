@@ -1,0 +1,1 @@
+<img src="<?php the_sub_field('block_image'); ?>" alt="" class="img-responsive img-space">

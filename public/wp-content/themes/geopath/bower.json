@@ -1,0 +1,24 @@
+{
+  "name": "geopath",
+  "description": "",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "^1.6.0",
+    "fancybox": "^2.1.5",
+    "lodash": "^4.15.0",
+    "isotope": "^3.0.1",
+    "jquery.scrollTo": "^2.1.2",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12",
+    "select2": "^4.0.3"
+  }
+}
